@@ -1,0 +1,2 @@
+# Hopeasarkka
+Kouluprojekti, sivusto hotellille
